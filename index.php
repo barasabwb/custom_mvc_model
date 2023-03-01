@@ -1,5 +1,5 @@
 <?php
-define('ROOT',  'http://mod_organizer.test/');
+define('ROOT',  'http://localhost/custom_mvc_model/');
 define('BASE',  __DIR__);
 
 require_once __DIR__.'/base/configurations.php';
